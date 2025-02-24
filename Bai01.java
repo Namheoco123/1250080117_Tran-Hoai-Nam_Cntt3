@@ -1,6 +1,9 @@
+package LABTUAN1;
 import java.util.Scanner;
-public class Bai01 {
-    public static void main(String[] args) {
+public class Bai01 
+{
+    public static void main(String[] args) 
+    {
         String ten;
         int ngaysinh;
         int mssv;
